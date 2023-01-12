@@ -9,3 +9,7 @@ CareLink client logic is based on the Java implementation by Bence Szász availa
 ## Disclaimer and Warning
 
 This project is intended for educational and informational purposes only. It is not approved by any medical authority (FDA etc.). It is not properly tested and must not be used for making any kind of decisions regarding medical treatment. It is neither affiliated with nor endorsed by Medtronic, and may violate their Terms of Service. Use of this code is without warranty or any kind of support.
+
+## Licence
+
+This project is licensed under terms of GNU Affero General Public License v3.0.
